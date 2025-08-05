@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+documentation/
+arduino_images/
+maps_images/
