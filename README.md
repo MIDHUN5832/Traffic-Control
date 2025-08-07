@@ -1,8 +1,4 @@
-<h1 align="center">🚦 SMART FLOW: AI-Powered Traffic Management System</h1>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/49f2935d-1a60-4035-af3f-97eb70cea058" width="350" />
-</p>
+<h1 align="center">🚦 VISION TRAFFIC (AI Powered Trafiic Control System) 🚦</h1>
 
 <div align="center">
   <strong>Revolutionizing urban traffic management through AI-driven intelligent traffic light control systems that adapt to real-time congestion patterns, reducing wait times and emissions while enhancing city mobility.</strong>
